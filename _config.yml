@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hoa's Homepage"
+title                    : "Hoa's Homepage" 
 title_separator          : "-"
 name                     : &name "Hoa Vo"
 description              : &description "personal description"
