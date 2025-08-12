@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: #
 venue: "Georgia State University" 
-date: #
+
 location: #
 ---
 
