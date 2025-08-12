@@ -3,18 +3,11 @@ title: "Georgia State University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Georgia State University"
+date: 2016-2018
 ---
 
-%This is a description of a teaching experience. You can use markdown like any other post.
+Econ 3900: Intermediate Macroeconomics (Undergraduate) Fall 2016 - May 2018
+Economics Tutor for all undergraduate economics courses - Summer 2017
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
