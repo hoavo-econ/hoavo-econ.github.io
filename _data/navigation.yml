@@ -9,9 +9,6 @@
 
 main:
   
-    
-  - title: "Publications"
-    url: /publications/
 
   - title: "Research"
     url: /talks/    
@@ -21,6 +18,11 @@ main:
 
   - title: "CV"
     url: /files/cv_academic___Hoa_Vo_7_2025 - AMIE.pdf  
+
+
+#  - title: "Publications"
+ #   url: /publications/
+
     
   # - title: "Portfolio"
  #  url: /portfolio/
