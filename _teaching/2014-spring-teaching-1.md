@@ -1,10 +1,8 @@
 ---
-title: "Georgia State University"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Georgia State University"
-date: 2016-2018
+venue: "Georgia State University" 
 ---
 
 Econ 3900: Intermediate Macroeconomics (Undergraduate) Fall 2016 - May 2018
