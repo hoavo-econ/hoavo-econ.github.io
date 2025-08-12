@@ -3,8 +3,6 @@ title: "Teaching Assistant"
 collection: teaching
 type: #
 venue: "Georgia State University" 
-
-location: #
 ---
 
 Econ 3900: Intermediate Macroeconomics (Undergraduate) Fall 2016 - May 2018
