@@ -10,6 +10,7 @@ redirect_from:
 
 
 I'm Hoa Vo, currently a Ph.D. candidate in Economics at the American University. 
+
 My research interests are in applied microeconomics, labor, development, and public economics. Trained in quantitative economics and econometrics, causal methods for impact evaluation of policies. 
 
 I hold a B.A. in Finance from University of Wisconsin, and earned my M.A. in Economics from Andrew Young School of Policy Studies (AYSPS) - Georgia State University. 
