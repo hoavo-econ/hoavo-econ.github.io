@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Hoa Vo, currently a Ph.D. candidate in Economics at the American University. 
+I'm Hoa Vo, currently a Ph.D. Candidate in Economics at the American University. 
 
 My research interests are in applied microeconomics, labor, development, and public economics. Trained in quantitative economics and econometrics, causal methods for impact evaluation of policies. 
 
@@ -18,5 +18,7 @@ I hold a B.A. in Finance from University of Wisconsin, and earned my M.A. in Eco
 I will be available for interviews during the 2025-2026 job market season. Please feel free to reach out via email.
 
 Email: hv7474a [at] american.edu 
+
+My CV is here: [Download PDF](/files/cv_academic___Hoa_Vo_7_2025 - AMIE.pdf). 
 
 
