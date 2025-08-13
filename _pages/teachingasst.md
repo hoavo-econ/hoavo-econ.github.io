@@ -5,8 +5,7 @@ permalink: /teachingasst/
 author_profile: true
 ---
 
-## Teaching Assistantships:  
-**American University:** 
+**American University** - Teaching Assistant: 
 - Econ 322: Applied Econometrics I (Undergraduate level) 
 - Econ 623: Applied Econometrics I (Master’s) 
 - Econ 823: Econometric Methods I (Ph.D.)  
@@ -18,7 +17,7 @@ author_profile: true
 - Econ 674: Gender Economics I (Graduate) 
 - Core 107: What’s It Worth? (Undergraduate) 
 
-**Georgia State University:**  
+**Georgia State University** - Teaching Assistant:   
 - Econ 3900: Intermediate Macroeconomics (Undergraduate) 
 - Economics Tutor for all undergraduate economics courses 
 
