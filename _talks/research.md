@@ -6,15 +6,17 @@ author_profile: true
 ---
 
 ## Working Papers
-- **Paper Title 1** — with Co-author Name(s) — *[PDF](/files/paper1.pdf)*
-- **Paper Title 2** — with Co-author Name(s) — *[PDF](/files/paper2.pdf)*
+#Paper Title 1 — with Co-author Name(s) — *[PDF](/files/paper1.pdf)*
+- **Household Decision-making and Women´s Labor Market Participation in a Developing Economy**, (with Radchenko, N.).
+  
+- Abstract:
+     
 
 ## Works in Progress
-- **Project Title 1** — Short one-sentence description.
-- **Project Title 2** — Short one-sentence description.
+- **Bargaining power index: a Distributional Approach**, (with Radchenko, N.). Work in progress. 
+- **Multigenerational household dynamics: intrahousehold bargaining and women's labor outcomes**, Work in progress. 
 
 ## Publications
-- **Published Paper Title** — *Journal Name*, Year — *[DOI Link](https://doi.org/xxxxxxx)*
+**From legislation to implementation: building a new industrial policy in the United States**, (with Artecona, R., & Velloso, H. 2023). - *[Link](https://www.cepal.org/en/publications/68769-legislation-implementation-building-new-industrial-policy-united-states)*
 
 
-Renaming to something like old_publications keeps them as backups.
