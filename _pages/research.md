@@ -7,7 +7,10 @@ author_profile: true
 
 ## Working Papers
 #Paper Title 1 — with Co-author Name(s) — *[PDF](/files/paper1.pdf)*
-- **Household Decision-making and Women´s Labor Market Participation in a Developing Economy**, (with Radchenko, N.).   
+- **Household Decision-making and Women´s Labor Market Participation in a Developing Economy**, (with Radchenko, N.).
+  
+- Abstract:
+     
 
 ## Works in Progress
 - **Bargaining power index: a Distributional Approach**, (with Radchenko, N.). Work in progress. 
