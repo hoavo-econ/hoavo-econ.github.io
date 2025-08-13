@@ -1,10 +1,24 @@
 ---
-permalink: /teaching/
+layout: single
 title: "Teaching"
-author_profile: true 
-
+permalink: /teaching/
+author_profile: true
 ---
 
-Econ 3900: Intermediate Macroeconomics (Undergraduate) Fall 2016 - May 2018 
+## Courses Taught
+- **Course Title** — Institution, Semester Year  
+  Short one-sentence course description.
 
-Economics Tutor for all undergraduate economics courses - Summer 2017
+- **Another Course Title** — Institution, Semester Year  
+  Short description.
+
+## Teaching Assistantships
+- **Course Title** — Institution, Semester Year — Instructor: Name
+- **Another Course Title** — Institution, Semester Year — Instructor: Name
+  
+- Econ 3900: Intermediate Macroeconomics (Undergraduate) Fall 2016 - May 2018
+  
+- Economics Tutor for all undergraduate economics courses - Summer 2017
+
+
+
