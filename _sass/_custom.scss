@@ -1,41 +1,31 @@
-/* ===== Custom Academic Color Scheme ===== */
+  /* ========== Custom Color Overrides ========== */
 
-/* Menu bar (navigation) */
+/* Background color */
+:root {
+  --global-bg-color: #080101;
+  --global-base-color: #222222;
+  --global-text-color: #333333;
+  --global-link-color: #0056a6;
+  --global-link-color-hover: #ff9933;
+  --global-masthead-link-color: #ffffff;
+  --global-masthead-link-color-hover: #ff9933;
+}
+
+/* Optional: Footer background */
+.site-footer {
+  background-color: #00152b !important;
+  color: #ffffff !important;
+}
+
+/* Navbar styling for sticky nav (if you also want that) */
 .site-nav {
-  background-color: #080101; /* black */
-  position: fixed; /* make it stay at the top */
+  position: fixed;
+  width: 100%;
   top: 0;
   left: 0;
-  width: 100%;
-  z-index: 1000; /* stay above content */
-  border-bottom: 2px solid #ff9933; /* subtle accent line */
+  z-index: 1000;
+  background-color: var(--global-masthead-link-color-hover) !important;
 }
-.site-nav a {
-  color: #ffffff !important; /* white text for contrast */
-}
-.site-nav a:hover {
-  color: #ff9933 !important; /* muted gold on hover */
-}
-
-/* Add padding to body so content isn't hidden behind fixed nav */
 body {
-  background-color: #f7f7f7 !important; /* light grey */
-  padding-top: 70px; /* adjust if nav bar height changes */
-}
-
-/* Links */
-a {
-  color: #0056a6; /* medium blue */
-}
-a:hover {
-  color: #ff9933; /* muted gold */
-}
-
-/* Footer */
-.site-footer {
-  background-color: #00152b; /* almost black navy */
-  color: #ffffff; /* white text */
-}
-.site-footer a {
-  color: #ff9933; /* gold links in footer */
+  padding-top: 70px;  /* avoid overlapping content */
 }
