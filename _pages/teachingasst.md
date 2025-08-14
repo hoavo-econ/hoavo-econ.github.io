@@ -4,7 +4,9 @@ title: "Teaching"
 permalink: /teachingasst/
 author_profile: true
 ---
- 
+
+
+  
 **American University** - Teaching Assistant: 
 - Econ 322: Applied Econometrics I (Undergraduate level) 
 - Econ 623: Applied Econometrics I (Master’s) 
