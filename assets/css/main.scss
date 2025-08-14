@@ -8,9 +8,7 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import "custom"; 
-
-/* 
+@import 
  "vendor/breakpoint/breakpoint",
 
     "themes",
@@ -42,4 +40,5 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-*/
+
+@import "custom" ;
