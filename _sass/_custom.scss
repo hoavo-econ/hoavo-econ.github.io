@@ -1,23 +1,40 @@
   /* ========== Custom Color Overrides ========== */
 
-/* Background color */
+/* Light mode (default) */
 :root {
-  --global-bg-color: #080101;
-  --global-base-color: #222222;
-  --global-text-color: #333333;
+  --global-bg-color: #ffffff; /* white background */
+  --global-base-color: #f5f5f5; /* light gray base areas */
+  --global-text-color: #000000; /* black text */
   --global-link-color: #0056a6;
+  --global-link-color-hover: #ff9933;
+  --global-masthead-link-color: #000000;
+  --global-masthead-link-color-hover: #ff9933;
+}
+
+/* Dark mode */
+html.dark {
+  --global-bg-color: #121212; /* deep dark background */
+  --global-base-color: #1e1e1e;
+  --global-text-color: #e0e0e0; /* light gray text */
+  --global-link-color: #66b2ff;
   --global-link-color-hover: #ff9933;
   --global-masthead-link-color: #ffffff;
   --global-masthead-link-color-hover: #ff9933;
 }
 
-/* Optional: Footer background */
+/* Apply background and text colors */
+body {
+  background-color: var(--global-bg-color) !important;
+  color: var(--global-text-color) !important;
+}
+
+/* Optional: Footer */
 .site-footer {
   background-color: #00152b !important;
   color: #ffffff !important;
 }
 
-/* Navbar styling for sticky nav (if you also want that) */
+/* Navbar */
 .site-nav {
   position: fixed;
   width: 100%;
@@ -27,43 +44,7 @@
   background-color: var(--global-masthead-link-color-hover) !important;
 }
 body {
-  padding-top: 70px;  /* avoid overlapping content */
+  padding-top: 70px;
 }
-
-/* Fully dark, consistent night mode — only when dark mode is active */
-html.dark {
-  background-color: #121212 !important; /* Deep dark background */
-  color: #e0e0e0 !important;            /* Light grey text */
-}
-
-html.dark body {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-}
-
-/* Headings in dark mode */
-html.dark h1,
-html.dark h2,
-html.dark h3,
-html.dark h4,
-html.dark h5,
-html.dark h6 {
-  color: #ffffff !important;
-}
-
-/* Links in dark mode */
-html.dark a {
-  color: #66b2ff !important; /* soft blue links */
-}
-html.dark a:hover {
-  color: #ff9933 !important; /* orange hover */
-}
-
-/* Code snippets in dark mode */
-html.dark code {
-  background-color: #1e1e1e !important;
-  color: #ffcc66 !important;
-}
-
 
 
