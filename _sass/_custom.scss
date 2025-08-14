@@ -1,0 +1,41 @@
+/* ===== Custom Academic Color Scheme ===== */
+
+/* Menu bar (navigation) */
+.site-nav {
+  background-color: #080101; /* black */
+  position: fixed; /* make it stay at the top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* stay above content */
+  border-bottom: 2px solid #ff9933; /* subtle accent line */
+}
+.site-nav a {
+  color: #ffffff !important; /* white text for contrast */
+}
+.site-nav a:hover {
+  color: #ff9933 !important; /* muted gold on hover */
+}
+
+/* Add padding to body so content isn't hidden behind fixed nav */
+body {
+  background-color: #f7f7f7 !important; /* light grey */
+  padding-top: 70px; /* adjust if nav bar height changes */
+}
+
+/* Links */
+a {
+  color: #0056a6; /* medium blue */
+}
+a:hover {
+  color: #ff9933; /* muted gold */
+}
+
+/* Footer */
+.site-footer {
+  background-color: #00152b; /* almost black navy */
+  color: #ffffff; /* white text */
+}
+.site-footer a {
+  color: #ff9933; /* gold links in footer */
+}
