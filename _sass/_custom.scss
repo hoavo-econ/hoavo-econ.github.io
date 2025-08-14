@@ -29,3 +29,19 @@
 body {
   padding-top: 70px;  /* avoid overlapping content */
 }
+
+/* Override dark mode background & text colors */
+body.dark {
+  background-color: #111111 !important; /* pick a true dark color */
+  color: #e0e0e0 !important;            /* light grey text for readability */
+}
+
+/* Also update link colors in dark mode */
+body.dark a {
+  color: #66b2ff !important;
+}
+body.dark a:hover {
+  color: #ff9933 !important;
+}
+
+
