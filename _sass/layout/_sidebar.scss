@@ -97,13 +97,28 @@
     width: 200px;
      height: 200px;
      object-fit:cover; 
-    border-radius: 50%;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
+  } 
+   /* Tablet size */
+@media (max-width: 768px) {
+  .author__avatar img {
+    width: 160px;      // scaled down proportionally
+    height: 160px;
   }
+}
+
+/* Mobile size */
+@media (max-width: 480px) {
+  .author__avatar img {
+    width: 130px;      // scaled down proportionally
+    height: 130px;
+  }
+}
 }
 
 .author__content {
