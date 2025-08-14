@@ -30,18 +30,40 @@ body {
   padding-top: 70px;  /* avoid overlapping content */
 }
 
-/* Override dark mode background & text colors */
-body.dark {
-  background-color: #111111 !important; /* pick a true dark color */
-  color: #e0e0e0 !important;            /* light grey text for readability */
+/* Fully dark, consistent night mode — only when dark mode is active */
+html.dark {
+  background-color: #121212 !important; /* Deep dark background */
+  color: #e0e0e0 !important;            /* Light grey text */
 }
 
-/* Also update link colors in dark mode */
-body.dark a {
-  color: #66b2ff !important;
+html.dark body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
 }
-body.dark a:hover {
-  color: #ff9933 !important;
+
+/* Headings in dark mode */
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark h4,
+html.dark h5,
+html.dark h6 {
+  color: #ffffff !important;
 }
+
+/* Links in dark mode */
+html.dark a {
+  color: #66b2ff !important; /* soft blue links */
+}
+html.dark a:hover {
+  color: #ff9933 !important; /* orange hover */
+}
+
+/* Code snippets in dark mode */
+html.dark code {
+  background-color: #1e1e1e !important;
+  color: #ffcc66 !important;
+}
+
 
 
