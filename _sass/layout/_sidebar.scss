@@ -98,7 +98,7 @@
      height: 200px;
      object-fit:cover; 
     border-radius: 50%;
-
+ aspect-ratio: 1 / 1; 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
@@ -110,6 +110,7 @@
     width: 160px;      // scaled down proportionally
     height: 160px;
      border-radius: 50% ;
+      aspect-ratio: 1 / 1;
   }
 }
 
