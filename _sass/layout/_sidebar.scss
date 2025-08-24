@@ -98,7 +98,10 @@
      height: 200px;
      object-fit:cover; 
     border-radius: 50%;
- aspect-ratio: 1 / 1; 
+   display: block;        /* Remove any inline spacing issues */
+  max-width: 100%;       /* Ensure it doesn't overflow container */
+  min-width: 200px;      /* Prevents shrinking below 200px */
+  min-height: 200px;     /* Ensures height stays equal */
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
