@@ -7,4 +7,4 @@ redirect_from:
   - /resume 
 ---
 
-You can download my CV [here.](/files/cv_academic___Hoa_Vo_10_2025.pdf) 
+You can download my CV [here.](/files/cv_academic___Hoa_Vo_11_2025.pdf) 
