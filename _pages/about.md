@@ -20,6 +20,6 @@ I am available for interviews during the 2025-2026 job market season. Please fee
 
 Email: hv7474a [at] american.edu 
 
-My CV: [Download](/files/cv_academic___General__Hoa_Vo_12_2025__USA_.pdf).
+My CV: [Download](/files/CV-Academic_Hoa Vo_Jan 2026 - USA.pdf).
 
 
