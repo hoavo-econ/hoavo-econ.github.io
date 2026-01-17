@@ -7,14 +7,14 @@ redirect_from:
   - /resume 
 ---
 
-You can download my CV [here.](/files/cv_academic___General__Hoa_Vo_12_2025__USA_.pdf) 
+You can download my CV [here.](/files/CV-Academic_Hoa Vo_Jan 2026 - USA.pdf) 
 
 <iframe
-  src="/files/cv_academic___General__Hoa_Vo_12_2025__USA_.pdf"
+  src="/files/CV-Academic_Hoa Vo_Jan 2026 - USA.pdf"
   width="100%"
   height="1100"
   style="border:none;"
 >
 </iframe>
 
-<p>  <a href="/files/cv_academic___General__Hoa_Vo_12_2025__USA_.pdf">Download CV</a>.</p>
+<p>  <a href="/files/CV-Academic_Hoa Vo_Jan 2026 - USA.pdf">Download CV</a>.</p>
