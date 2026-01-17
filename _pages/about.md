@@ -11,7 +11,7 @@ redirect_from:
 
 I'm Hoa Vo, currently a Ph.D. Candidate in Economics at the American University. 
 
-My research interests are in applied microeconomics, labor, development, household, and public economics. Trained in quantitative economics and econometrics, causal inference methods for impact evaluation (including policy impact). 
+My research interests are in applied microeconomics, at the intersection of labor, development, household, and public economics, with research focus on women's issues. Trained in quantitative economics and econometrics, causal inference methods for impact evaluation (including policy impact). 
 Previously, I worked for UN-ECLAC to produce a report on the U.S. new industrial policy (with focus on clean and renewable energy), and also worked as a Consultant in the private sector. 
 
 I hold a bachelor's degree in Finance from University of Wisconsin, and earned my M.A. in Economics from Andrew Young School of Policy Studies (AYSPS) - Georgia State University. 
