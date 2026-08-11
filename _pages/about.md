@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Hoa Vo, currently a Ph.D. Candidate in Economics at the American University. 
+I'm Hanna (Hoa) Vo, currently a Ph.D. Candidate in Economics at the American University. 
 
 My research interests are in applied microeconomics, at the intersection of labor, development, household, and public economics, with research focus on decision-making and bargaining power dynamics. Trained in quantitative economics and econometrics, causal inference methods for impact evaluation (including policy impact), machine learning and AI, data mining, and business intelligence. 
 Previously, I worked for UN-ECLAC to produce a report on the U.S. new industrial policy (with focus on clean and renewable energy), and also worked as a Consultant in the private sector. 
