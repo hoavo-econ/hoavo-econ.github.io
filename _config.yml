@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US" 
 site_theme               : "default"
-title                    : "Hoa's Homepage" 
+title                    : "Vo's Homepage" 
 title_separator          : "-"
-name                     : &name "Hoa Vo"
+name                     : &name "Hanna (Hoa) Vo"
 description              : &description "personal description"
 url                      : "https://hoavo-econ.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "hoavo-econ.github.io/hoavo-econ.github.io/"
 author:
   # Biographic information
   avatar           : "03.04.2025 Hoa Vo - Headshot - 300px-filter.jpg"
-  name             : "Hoa Vo"
+  name             : "Hanna (Hoa) Vo"
   pronouns         : "she/her"  
-  bio              : "Ph.D. candidate in Economics"
+  bio              : "Ph.D. in Economics"
   employer         : "American University"
-  uri              :  #"https://www.american.edu" 
+  uri              :  "https://www.american.edu/cas/economics/phd/job-market-candidates.cfm" 
  # email            : "none@example.org" 
 
   # Academic websites
