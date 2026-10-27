@@ -22,9 +22,9 @@ author_profile: true
 Bargaining power within households influences decision-making, resource allocation, and individual well-being.
 Addressing the limitations of current metrics, this paper proposes a data distribution based bargaining power index and highlights underlying deviations from predominant social norms. By analyzing how individuals conform to or diverge from normative decision-making patterns, this approach captures variations in agency, power, and constraint within the household. Ultimately, this provides a more rigorous tool for examining how gendered power structures and social norms intersect to shape women's labor supply.”
 
-”Spousal Job Loss and Women’s Employment Responses in the U.S.”, Work-in-progress. 
+”Spousal Job Loss and Women’s Employment Responses in the U.S”.
 
-"Socioeconomic Gaps in Menopause Care Among Older Women", Work-in-progress. 
+"Socioeconomic Gaps in Menopause Care Among Older Women".
 
 
 ## Other Publication: 
