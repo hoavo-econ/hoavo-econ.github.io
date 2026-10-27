@@ -4,10 +4,10 @@ title: "Teaching"
 permalink: /teachingasst/
 author_profile: true
 ---
+
 **AEA Summer Pipeline Program** - Teaching Fellow: 
 - Econ 586: Econometrics (Advanced Cohort) 
 
-  
 **American University** - Teaching Assistant: 
 - Econ 322: Applied Econometrics I (Undergraduate level) - Prof. Natalia Radchenko 
 - Econ 623: Applied Econometrics I (Master’s) - Professor Amos Golan 
