@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teachingasst/
 author_profile: true
 ---
-**AEA Summer Pipeline Program: Teaching Fellow 
+**AEA Summer Pipeline Program** - Teaching Fellow: 
 - Econ 586: Econometrics (Advanced Cohort) 
 
   
